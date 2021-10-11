@@ -1,0 +1,12 @@
+女面试官人很好...
+1、自我介绍、项目介绍
+2、做题：topK：前k个最小的数，排序算法的时间复杂度
+3、数据库，索引，设计模式
+4、线程安全的数据结构，ConcurrentHashMap如何保证线程安全
+5、synchronized和lock的区别，各自的使用场景
+6、String S = “aaa”; String s = new String("aaa");各自存储在哪个地方
+  == 和 equals 的区别，StringBuffer如何线程安全的修改字符串
+7、Java内存模型、垃圾回收算法
+8、抽象类和接口的区别
+9、设计一个权限管理系统
+10、反问
